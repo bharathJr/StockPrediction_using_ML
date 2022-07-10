@@ -1,4 +1,4 @@
-This a stock Market Prediction App created by using Python and machine learning, I used LSTM Model to predict The Stock Price and build an interactive dashboard for stock analysis using OTOH, Plotly dash python framework for building dashboards.
+This a stock Market Prediction App created by using Python and machine learning, I used LSTM Model to predict The Stock Price and build an interactive dashboard for stock analysis using Plotly dash python framework for building dashboards.
 ##### This App also has 15 Tech Companies High vs Low Stock Prices Data and Volume analysis
 
 # DataSet Creation
